@@ -11,6 +11,8 @@ accessed data or large binary blobs. Its basic interface is easy to implement
 and it supports a number of backends, including the filesystem, SQLAlchemy,
 MongoDB, Redis and Amazon S3/Google Storage.
 
+RUSSELL ROMNEY EDITS: This repo has a few edits, specifically a built-in base-class option to pickle the passed object. 
+
 Installation
 ------------
 simplekv is `available on PyPI <http://pypi.python.org/pypi/simplekv/>`_ and
